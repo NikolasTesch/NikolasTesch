@@ -43,18 +43,24 @@ Sou desenvolvedor Full Stack em formação, cursando ADS no último semestre e p
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NikolasTesch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolasTesch&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NikolasTesch&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
+--- 
+
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Stack |
+|--------|-----------|-------|
+| [**DataBolsa**](https://github.com/NikolasTesch/databolsa) | Plataforma de acompanhamento de patrimônio em investimentos — Web + Mobile | Next.js · Flutter · NestJS · Prisma |
+| [**Fase Sport**](https://github.com/NikolasTesch/fase) | Plataforma de catálogo e conversão para loja de uniformes esportivos | Next.js · Prisma · Cloudflare R2 |
+| [**BarberAG**](https://github.com/NikolasTesch/barberag) | Sistema de gestão completo para barbearia com agendamento e dashboards | Next.js · TypeScript · Playwright |
+| [**CatchOrder**](https://github.com/NikolasTesch/CatchOrder) | Sistema de gerenciamento de pedidos para restaurantes com auth e testes | Node.js · TypeScript · SQLite · Jest |
+| [**NKS Mark**](https://github.com/NikolasTesch/nksmark) | Catálogo digital corporativo para equipes de design e sublimação | Next.js · NextAuth · Cloudflare R2 |
+| [**DGM Detailing**](https://github.com/NikolasTesch/dgmdetailingclean) | Landing page de alta conversão com SEO local e Schema.org | HTML · CSS · JS Vanilla |
 
 ### 📫 Vamos conversar?
 
